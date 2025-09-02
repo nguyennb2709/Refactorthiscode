@@ -1,0 +1,13 @@
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/RefactorThis.Domain.Tests.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/RefactorThis.Domain.Tests.pdb
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/nunit.framework.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/RefactorThis.Domain.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/RefactorThis.Persistence.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/RefactorThis.Domain.pdb
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/RefactorThis.Persistence.pdb
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/bin/Debug/nunit.framework.xml
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/obj/Debug/RefactorThis.Domain.Tests.csproj.AssemblyReference.cache
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/obj/Debug/RefactorThis.Domain.Tests.csproj.CoreCompileInputs.cache
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/obj/Debug/RefactorThis.Domain.Tests.csproj.CopyComplete
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/obj/Debug/RefactorThis.Domain.Tests.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain.Tests/obj/Debug/RefactorThis.Domain.Tests.pdb

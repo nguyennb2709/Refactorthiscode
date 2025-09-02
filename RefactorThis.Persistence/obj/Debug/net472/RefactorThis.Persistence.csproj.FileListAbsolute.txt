@@ -1,0 +1,9 @@
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/bin/Debug/net472/RefactorThis.Persistence.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/bin/Debug/net472/RefactorThis.Persistence.pdb
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/Debug/net472/RefactorThis.Persistence.csproj.AssemblyReference.cache
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/Debug/net472/RefactorThis.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/Debug/net472/RefactorThis.Persistence.AssemblyInfoInputs.cache
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/Debug/net472/RefactorThis.Persistence.AssemblyInfo.cs
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/Debug/net472/RefactorThis.Persistence.csproj.CoreCompileInputs.cache
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/Debug/net472/RefactorThis.Persistence.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/Debug/net472/RefactorThis.Persistence.pdb

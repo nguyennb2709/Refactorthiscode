@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/RefactorThis.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/RefactorThis.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/RefactorThis.Persistence.csproj",
+        "projectName": "RefactorThis.Persistence",
+        "projectPath": "/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/RefactorThis.Persistence.csproj",
+        "packagesPath": "/Users/gabrielnguyen/.nuget/packages/",
+        "outputPath": "/Users/gabrielnguyen/refactorthis/RefactorThis.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielnguyen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

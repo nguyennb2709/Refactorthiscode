@@ -1,0 +1,9 @@
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/bin/Debug/RefactorThis.Domain.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/bin/Debug/RefactorThis.Domain.pdb
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/bin/Debug/RefactorThis.Persistence.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/bin/Debug/RefactorThis.Persistence.pdb
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/obj/Debug/RefactorThis.Domain.csproj.AssemblyReference.cache
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/obj/Debug/RefactorThis.Domain.csproj.CoreCompileInputs.cache
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/obj/Debug/RefactorThis.Domain.csproj.CopyComplete
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/obj/Debug/RefactorThis.Domain.dll
+/Users/gabrielnguyen/refactorthis/RefactorThis.Domain/obj/Debug/RefactorThis.Domain.pdb
